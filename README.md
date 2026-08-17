@@ -79,4 +79,4 @@ The split seed is fixed at 42 and the same test rows are used for every model. T
 
 ## BITS Virtual Lab evidence
 
-Add the one genuine screenshot of the assignment execution in BITS Virtual Lab to the final PDF as required by the brief.
+The genuine BITS Virtual Lab execution screenshot is included in the final submission PDF as required by the brief.
