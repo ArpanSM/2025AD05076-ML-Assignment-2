@@ -12,11 +12,11 @@ The source dataset is downloaded and converted by `train_models.py`. The applica
 
 ## GitHub Repository Link
 
-**To be added before submission:** `https://github.com/ArpanSM/2025AD05076-ML-Assignment-2`
+`https://github.com/ArpanSM/2025AD05076-ML-Assignment-2`
 
 ## Live Streamlit App Link
 
-**To be added after deployment:** `https://<your-streamlit-app>.streamlit.app`
+`https://2025ad05076-ml-assignment-2-cpymqtqj9rjhvpxc7pbe8x.streamlit.app/`
 
 ## Models used
 
