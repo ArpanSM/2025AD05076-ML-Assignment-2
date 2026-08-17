@@ -1,0 +1,42 @@
+{
+  "dataset": "UCI Default of Credit Card Clients",
+  "dataset_url": "https://archive.ics.uci.edu/ml/machine-learning-databases/00350/default%20of%20credit%20card%20clients.xls",
+  "target_column": "default_payment_next_month",
+  "feature_columns": [
+    "LIMIT_BAL",
+    "SEX",
+    "EDUCATION",
+    "MARRIAGE",
+    "AGE",
+    "PAY_0",
+    "PAY_2",
+    "PAY_3",
+    "PAY_4",
+    "PAY_5",
+    "PAY_6",
+    "BILL_AMT1",
+    "BILL_AMT2",
+    "BILL_AMT3",
+    "BILL_AMT4",
+    "BILL_AMT5",
+    "BILL_AMT6",
+    "PAY_AMT1",
+    "PAY_AMT2",
+    "PAY_AMT3",
+    "PAY_AMT4",
+    "PAY_AMT5",
+    "PAY_AMT6"
+  ],
+  "id_column_dropped": "ID",
+  "random_state": 42,
+  "test_size": 0.2,
+  "metrics_average": "weighted for Precision, Recall, and F1",
+  "models": {
+    "Logistic Regression": "logistic_regression.joblib",
+    "Decision Tree": "decision_tree.joblib",
+    "kNN": "knn.joblib",
+    "Naive Bayes": "naive_bayes.joblib",
+    "Random Forest (Ensemble)": "random_forest_ensemble.joblib",
+    "Gradient Boosting": "gradient_boosting.joblib"
+  }
+}
