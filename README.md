@@ -12,7 +12,7 @@ The source dataset is downloaded and converted by `train_models.py`. The applica
 
 ## GitHub Repository Link
 
-**To be added before submission:** `https://github.com/<your-username>/<your-repository>`
+**To be added before submission:** `https://github.com/ArpanSM/2025AD05076-ML-Assignment-2`
 
 ## Live Streamlit App Link
 
